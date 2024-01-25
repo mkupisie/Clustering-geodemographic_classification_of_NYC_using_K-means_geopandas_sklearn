@@ -8,14 +8,15 @@ The fundamental concept behind statistical clustering is to condense the informa
 
 ### Data
 For the purpose of classification the data available in pysal library in examples package were used (https://pysal.org/notebooks/lib/libpysal/Example_Datasets.html).
+
 NYC Socio-Demographics data contains the information of total population of the following groups:
-- european: Total Population White
-- asian: Total Population Asian American
-- american: Total Population American Indian
-- african: Total Population African American
-- hispanic: Total Population Hispanic
-- mixed: Total Population Mixed race
-- pacific: Total Population Pacific Islander
+- **european:** Total Population White
+- **asian:** Total Population Asian American
+- **american:** Total Population American Indian
+- **african:** Total Population African American
+- **hispanic:** Total Population Hispanic
+- **mixed:** Total Population Mixed race
+- **pacific:** Total Population Pacific Islander
 
 **NYC reference units**
 ![NYC](https://github.com/mkupisie/Clustering_geodemographic_classification_of_NYC_using_K-means_geopandas_sklearn/assets/130785524/aa3226be-7403-4e29-bedb-c396dab01c09)
