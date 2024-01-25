@@ -18,13 +18,10 @@ For the purpose of classification the data available in pysal library in example
 - **mixed:** Total Population Mixed race
 - **pacific:** Total Population Pacific Islander
 
-**NYC reference units**
-![NYC](https://github.com/mkupisie/Clustering_geodemographic_classification_of_NYC_using_K-means_geopandas_sklearn/assets/130785524/aa3226be-7403-4e29-bedb-c396dab01c09)
-
-**Classification on the map**
+##**Classification on the map**
 ![NYC_results](https://github.com/mkupisie/Clustering_geodemographic_classification_of_NYC_using_K-means_geopandas_sklearn/assets/130785524/9f307b2a-5c22-4f63-a682-891dd581ff8d)
 
-**The mean of total population for each ethnic group within the class**
+##**The mean of total population for each ethnic group within the class**
 ![table_results](https://github.com/mkupisie/Clustering_geodemographic_classification_of_NYC_using_K-means_geopandas_sklearn/assets/130785524/358dd91b-85b4-4677-9385-5a05e6c0e3d5)
 
 
