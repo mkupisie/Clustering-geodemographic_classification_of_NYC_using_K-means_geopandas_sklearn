@@ -1,4 +1,4 @@
-## Clustering geodemographic classification of NYC using K-means algorithm
+## Clustering: geodemographic classification of NYC using K-means algorithm
 Many questions related to spatial observations are complex phenomena that involves several dimensions, what make it hard to summarize them into a single variable. It is especially visible when trying to map distribution of people taking into account e.g. their nationality, education level, age etc. It's uncommon for a geographic region to be exclusively populated by individuals of identical heritage, particularly in the context of urban areas. 
 
 **Clustering** can be used to reduce the dimensionality - the number of variables the analyst needs to look at - and converting it into a more intuitive set of classes.
