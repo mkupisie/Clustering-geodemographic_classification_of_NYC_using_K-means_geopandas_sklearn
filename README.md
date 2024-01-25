@@ -28,7 +28,7 @@ For the purpose of classification the data available in pysal library in example
 ![table_results](https://github.com/mkupisie/Clustering_geodemographic_classification_of_NYC_using_K-means_geopandas_sklearn/assets/130785524/358dd91b-85b4-4677-9385-5a05e6c0e3d5)
 
 
-Based on the results above it can be noticed that within each group there is a strong majority of one, two and sometimes three ethnic groups:
+**Based on the results above it can be noticed that within each group there is a strong majority of one, two and sometimes three ethnic groups:**
 - **class 0:** hispanic and african
 - **class 1:** european
 - **class 2:** african
