@@ -9,7 +9,7 @@ The fundamental concept behind statistical clustering is to condense the informa
 ### Data
 For the purpose of classification the data available in pysal library in examples package were used (https://pysal.org/notebooks/lib/libpysal/Example_Datasets.html).
 
-NYC Socio-Demographics data contains the information of total population of the following groups:
+**NYC Socio-Demographics data** contains the information of total population of the following groups:
 - **european:** Total Population White
 - **asian:** Total Population Asian American
 - **american:** Total Population American Indian
